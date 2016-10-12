@@ -84,6 +84,7 @@ namespace SeleniumNunit
         public void TearDown()
         {
             driver.Quit();
+
             driver.Dispose();
         }
     }
