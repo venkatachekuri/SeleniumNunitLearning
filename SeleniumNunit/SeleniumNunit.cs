@@ -16,6 +16,7 @@ namespace SeleniumNunit
         private IWebDriver driver;
         string testUrl = string.Empty;
 
+
         [SetUp]
         public void SetUp()
         {
