@@ -8,8 +8,6 @@ using System.Diagnostics;
 
 namespace SeleniumNunit
 {
-
-
     [TestFixture]
     public class SeleniumNunit
     {
